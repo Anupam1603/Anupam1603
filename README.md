@@ -1,9 +1,6 @@
-
-
 <h1 align="center">Hi 👋, I'm Anupam Tiwari</h1>
 <h3 align="center">A passionate software developer from India.</h3>
- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on [Cart item](https://github.com/Anupam1603/Cart)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
@@ -16,7 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/lonesamurai1603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lonesamurai1603" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anupam1603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anupam1603" height="30" width="40" /></a>
+<a href="https://instagram.com/anupam_1603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anupam_1603" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
