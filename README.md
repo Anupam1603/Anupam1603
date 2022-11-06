@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Anupam Tiwari</h1>
 <h3 align="center">A passionate software developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🔭 I’m currently working on  <a href="https://github.com/Anupam1603/Cart">Cart item</a>
+- 🔭 I’m currently working on  <a href="https://github.com/devilking0/medicARe">medicARe</a>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 🤝 I’m looking for help with **Cart item**
+- 🤝 I’m looking for help with **medicARe**
 
 - 💬 Ask me about **AR/VR and Web Development**
 
