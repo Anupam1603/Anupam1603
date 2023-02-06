@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 🤝 I’m looking for help with **medicARe**
+- 🤝 I’m looking for help with **Airline Management Services**
 
 - 💬 Ask me about **AR/VR and Web Development**
 
