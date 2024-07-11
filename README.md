@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **AR/VR and Web Development**
 
-- 📫 How to reach me **lonesamurai1603@gmail.com**
+- 📫 How to reach me **tiwari.anupam1603@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
